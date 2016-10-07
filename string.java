@@ -37,5 +37,3 @@ System.out.println("NUMBER OF WORDS \t"+len+"\nNUMBER OF SPACES\t"+nos+"\nNUMBER
 
 +"\nNUMBER OF SPECIAL CHARACTERS\t"+sp);
 }}
-Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Status Help
